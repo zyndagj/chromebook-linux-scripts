@@ -1,1 +1,2 @@
-# chromebook-linux-scripts
+chromebook-xubuntu-script
+=========================
